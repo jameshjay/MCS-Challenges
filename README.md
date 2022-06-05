@@ -1,3 +1,4 @@
 # MCS-Challenges
 
-*Coding Challenges (*No longer maintained).
+*Coding Challenges 
+<i>(*No longer being updated).</i>
