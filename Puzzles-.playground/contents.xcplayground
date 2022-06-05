@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='balance parentheses c++'/>
+        <page name='array to dictionary'/>
+        <page name='balance parentheses swift'/>
+        <page name='testingasdfasdfasdfasdfasd'/>
+        <page name='check anagram'/>
+        <page name='dictionary to array'/>
+        <page name='Extras'/>
+        <page name='first non repeated char'/>
+        <page name='fizzbuzz'/>
+        <page name='inOrder'/>
+        <page name='max value in array'/>
+        <page name='merge two sorted linked lists'/>
+        <page name='most common integer'/>
+        <page name='remove duplicates linked list'/>
+        <page name='return length last string'/>
+        <page name='reverse integer'/>
+        <page name='reverse string'/>
+        <page name='array sort in place'/>
+        <page name='reverse string recursively'/>
+        <page name='rhombus'/>
+        <page name='strings'/>
+        <page name='test2'/>
+        <page name='BST implementation'/>
+        <page name='Extra Challenges'/>
+        <page name='Two Sum Challenge'/>
+    </pages>
+</playground>
